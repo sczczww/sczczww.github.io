@@ -1,17 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![sczczww](https://img.shields.io/badge/sczczww-github-blue?logo=github)](https://github.com/sczczww)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is an undergraduate student majoring in Software Engineering at Zhengzhou University.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
-
+Email: 1400497896@qq.com
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Software Engineering, Zhengzhou University, 2025—2029.\
+
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
